@@ -14,7 +14,7 @@ use path_slash::PathBufExt;
 pub const LLVM_HOST_SOURCE_URL: &str = "https://github.com/llvm/llvm-project";
 
 /// The LLVM host repository tag.
-pub const LLVM_HOST_SOURCE_TAG: &str = "llvmorg-18.1.8";
+pub const LLVM_HOST_SOURCE_TAG: &str = "llvmorg-20.1.7";
 
 /// The minimum required XCode version.
 pub const XCODE_MIN_VERSION: u32 = 11;
